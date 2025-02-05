@@ -17,4 +17,4 @@ API development & optimization
 Projects that challenge me to grow
 📬 Reach Me
 Email: anageguchadze22@gmail.com
-LinkedIn: Ana Geguchadze
+LinkedIn: https://www.linkedin.com/in/ana-geguchadze-46a54429b/
