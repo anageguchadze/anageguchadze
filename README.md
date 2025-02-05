@@ -18,6 +18,3 @@ Projects that challenge me to grow
 📬 Reach Me
 Email: anageguchadze22@gmail.com
 LinkedIn: Ana Geguchadze
-
-
-
