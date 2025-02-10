@@ -1,5 +1,5 @@
 👋 Hey, I’m Ana Geguchadze
-Backend Python Developer | Turning complex problems into simple, scalable solutions. 💻✨
+Backend Python Developer 💻✨
 
 I’m passionate about building secure APIs and data-driven applications, always curious and eager to learn new technologies.
 
